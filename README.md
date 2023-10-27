@@ -19,6 +19,7 @@ I have experience as a web programmer for 2 years.
 * Others `Git` `Jira`
 
 ### Contact Me
+* Email ⯈ [cwk91405133@gmail.com](mailto:cwk91405133@gmail.com)
 * Website ⯈ [https://vickcoo.github.io/](https://vickcoo.github.io/)
 * LinkedIn ⯈ [https://www.linkedin.com/in/imvickchen/](https://www.linkedin.com/in/imvickchen/)
 * X ⯈ [@vickcoo](https://twitter.com/vickcoo)
