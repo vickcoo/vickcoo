@@ -3,7 +3,6 @@ I have experience as a web programmer for 2 years.
 
 
 ### I am
-> *ready become to an iOS Developer*
 ```
    _   ____    ____        ___                    __                       
   (_) / __ \  / __/       / _ \ ___  _  __ ___   / / ___    ___  ___   ____
