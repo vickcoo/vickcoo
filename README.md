@@ -1,11 +1,3 @@
-### Hi there 👋🏻
-I have experience as a web programmer for 2 years.
-
-
-### I am
-I'm an iOS Developer now.
-
-
 ### Find Me
 * 📬 How to reach me [cwk91405133@gmail.com](mailto:cwk91405133@gmail.com)
 * 📝 I write article on [Medium](https://medium.com/@vickcoo)
